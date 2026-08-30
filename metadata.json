@@ -1,0 +1,6 @@
+{
+  "name": "Jyotishya - Vedic Astrology",
+  "description": "Professional-grade Vedic Astrology app with high-precision calculations, Shodashavarga charts, Dashas, Panchanga, Gochara transits, Yogas, and Muhurta.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
